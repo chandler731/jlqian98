@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Qian Jiale.
+- 👀 I’m interested in music technology.
+- 🌱 I’m currently learning at Fudan University.
